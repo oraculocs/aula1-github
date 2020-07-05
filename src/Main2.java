@@ -4,6 +4,10 @@ public class Main2 {
 	
 	public static void main(String[] args) {
 		
+		/*
+		 * Programa simples de comando condicional.
+		 */
+		
 		Scanner sc = new Scanner(System.in);
 		
 		int hora;

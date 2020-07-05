@@ -4,6 +4,10 @@ public class Main4 {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * SWITCH CASE simples
+		 */
+		
 		Scanner sc = new Scanner(System.in);
 		
 		int x;

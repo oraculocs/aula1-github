@@ -5,6 +5,12 @@ public class Main3 {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * Programa que verifica se caso uma conta excedeu
+		 * a cota de 100 minutos, caso exceda vai multiplicar
+		 * a quantidade de minutos * 2.
+		 */
+		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		

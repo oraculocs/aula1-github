@@ -4,6 +4,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * Declaração de Variáveis e Impressão normal
+		 * e formatada com 2 casas decimais
+		 */
+		
 		int y = 32;
 		double x = 10.35784;
 		
