@@ -6,7 +6,7 @@ public class Main {
 		
 		/*
 		 * Declaração de Variáveis e Impressão normal
-		 * e formatada com 2 casas decimais
+		 * e formatada com 2 casas decimais.
 		 */
 		
 		int y = 32;

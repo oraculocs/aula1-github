@@ -9,6 +9,7 @@ public class Main3 {
 		 * Programa que verifica se caso uma conta excedeu
 		 * a cota de 100 minutos, caso exceda vai multiplicar
 		 * a quantidade de minutos * 2.
+		 * 
 		 */
 		
 		Locale.setDefault(Locale.US);
@@ -25,7 +26,7 @@ public class Main3 {
 		
 		System.out.printf("Valor da Conta = R$ %.2f%n", conta);
 		
-
+		sc.close();
 	}
 
 }

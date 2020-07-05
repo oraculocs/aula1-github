@@ -5,7 +5,7 @@ public class Main2 {
 	public static void main(String[] args) {
 		
 		/*
-		 * Programa simples de comando condicional.
+		 * Programa simples de estrutura condicional.
 		 */
 		
 		Scanner sc = new Scanner(System.in);

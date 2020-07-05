@@ -5,7 +5,7 @@ public class Main4 {
 	public static void main(String[] args) {
 		
 		/*
-		 * SWITCH CASE simples
+		 * SWITCH CASE Simples
 		 */
 		
 		Scanner sc = new Scanner(System.in);
